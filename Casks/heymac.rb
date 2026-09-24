@@ -1,6 +1,6 @@
 cask "heymac" do
-  version "1.0.0"
-  sha256 "6a47148e77bd29cdfbc95ee05f33b4ca30d2f5658b58966ec4c1c165d9f7fe9e"
+  version "1.0.1"
+  sha256 "1c6fc3b315158575a9dc3ac20428d36fd3412d2857070075940dd4bdf4beffce"
 
   url "https://github.com/iharshitmaurya/HeyMac/releases/download/v#{version}/HeyMac-#{version}.dmg"
   name "Hey Mac"
